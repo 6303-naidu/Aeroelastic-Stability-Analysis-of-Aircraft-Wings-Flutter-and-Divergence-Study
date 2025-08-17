@@ -36,8 +36,8 @@ The project consists of seven Python scripts, each focusing on a specific aspect
 ## Project Structure & Usage
 
 - Each script is modular and can be run independently to observe corresponding results.
-- Dependencies: Python 3.8+, with `numpy`, `scipy`, and `matplotlib` libraries installed.
-- Run scripts via command line or in a Jupyter notebook environment to generate plots and outputs that illustrate aerodynamic and structural stability characteristics.
+- Dependencies:  `numpy`, `scipy`, and `matplotlib` libraries installed.
+- Run scripts google colab environment to generate plots and outputs that illustrate aerodynamic and structural stability characteristics.
 - Visualization includes displacement responses, eigenvalue real parts, divergence speeds, flutter boundaries, and parametric studies relevant for design.
 
 ---
@@ -51,6 +51,8 @@ pip install numpy scipy matplotlib
 text
 
 2. Execute any script, e.g.:
+
+   
 import numpy as np
 import matplotlib.pyplot as plt
 
