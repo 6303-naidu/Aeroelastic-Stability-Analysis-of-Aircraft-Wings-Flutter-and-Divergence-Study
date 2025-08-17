@@ -109,7 +109,7 @@ This suite supports aerospace engineers in:
 
 [Varri Appalanaidu]  
 Aerospace Engineering  
-[Contact Information or GitHub Link]
+[https://github.com/6303-naidu/Aeroelastic-Stability-Analysis-of-Aircraft-Wings-Flutter-and-Divergence-Study]
 
 ---
 
